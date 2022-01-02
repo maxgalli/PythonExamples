@@ -1,0 +1,11 @@
+name: jb-example
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - jupyterlab
+  - scipy
+  - matplotlib
+  - jupyter-book
+  - ghp-import
+  - ipympl
