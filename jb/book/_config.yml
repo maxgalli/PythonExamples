@@ -29,8 +29,8 @@ html:
   use_issues_button: true
   use_repository_button: true
 
-# Interactivity
 launch_buttons:
-  use_thebelab_button: true
+  notebook_interface: jupyterlab
   thebe: true
   use_show_widgets_button: true
+  colab_url: https://colab.research.google.com

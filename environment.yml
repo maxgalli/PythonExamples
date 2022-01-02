@@ -6,6 +6,7 @@ dependencies:
   - jupyterlab
   - scipy
   - matplotlib
+  - bokeh
   - jupyter-book
   - ghp-import
   - ipympl

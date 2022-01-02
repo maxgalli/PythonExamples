@@ -7,3 +7,4 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: interactive_notebook
+- file: interactive_bokeh_notebook
